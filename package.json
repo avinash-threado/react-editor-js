@@ -12,6 +12,10 @@
     "packages/@react-editor-js/*",
     "packages/react-editor-js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://avinash-threado/react-editor-js.git"
+  },
   "devDependencies": {
     "@release-it/conventional-changelog": "^3.3.0",
     "@rollup/plugin-node-resolve": "^13.0.6",
