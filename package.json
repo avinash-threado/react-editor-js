@@ -2,6 +2,7 @@
   "author": "Jungwoo An <o1o9814@naver.com>",
   "version": "2.1.0",
   "private": true,
+  "name": "react-editor-js",
   "scripts": {
     "release": "release-it",
     "build": "rollup --config",
