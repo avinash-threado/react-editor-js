@@ -13,16 +13,16 @@
     "url": "https://github.com/Jungwoo-An/react-editor-js/issues"
   },
   "peerDependencies": {
-    "@editorjs/editorjs": "*",
-    "@editorjs/paragraph": "*",
+    "@editorjs/editorjs": "2.25.0",
+    "@editorjs/paragraph": "2.8.0",
     "react": "*"
   },
   "dependencies": {
     "@react-editor-js/core": "2.1.0"
   },
   "devDependencies": {
-    "@editorjs/editorjs": "*",
-    "@editorjs/paragraph": "*",
+    "@editorjs/editorjs": "2.25.0",
+    "@editorjs/paragraph": "2.8.0",
     "@types/react": "*",
     "react": "*",
     "tslib": "^2.3.1",

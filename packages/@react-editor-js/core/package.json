@@ -13,11 +13,11 @@
     "url": "https://github.com/Jungwoo-An/react-editor-js/issues"
   },
   "peerDependencies": {
-    "@editorjs/editorjs": "*",
+    "@editorjs/editorjs": "2.25.0",
     "react": "*"
   },
   "devDependencies": {
-    "@editorjs/editorjs": "*",
+    "@editorjs/editorjs": "2.25.0",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
     "@types/react": "*",
