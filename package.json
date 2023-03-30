@@ -2,6 +2,7 @@
   "author": "Jungwoo An <o1o9814@naver.com>",
   "version": "2.1.0",
   "private": true,
+  "name": "react-editor-js",
   "scripts": {
     "release": "release-it",
     "build": "rollup --config",
@@ -11,6 +12,10 @@
     "packages/@react-editor-js/*",
     "packages/react-editor-js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://avinash-threado/react-editor-js.git"
+  },
   "devDependencies": {
     "@release-it/conventional-changelog": "^3.3.0",
     "@rollup/plugin-node-resolve": "^13.0.6",
